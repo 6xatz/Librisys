@@ -1,4 +1,4 @@
-# Fii's Book
+# Librisys
 
 A simple ASP.NET Web Forms (ASPX) app styled with a minimal dark theme. It manages Books and Members with full CRUD, has a login screen, and a dashboard summary.
 
@@ -55,3 +55,7 @@ A simple ASP.NET Web Forms (ASPX) app styled with a minimal dark theme. It manag
 - Passwords are stored as plain text for demo purposes. Replace with hashed passwords in production.
 - Add server-side auth checks per page if you need access control.
 - Consider migrating to MVC/Razor or a PHP stack if that suits your workflow.
+
+## Documentation
+
+All associated resources are licensed under the [Read-Only Source License](./LICENSE.md).
